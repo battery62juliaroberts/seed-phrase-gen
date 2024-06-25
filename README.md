@@ -5,7 +5,7 @@
 
 This repository provides a comprehensive suite of tools for working with seed phrases, the essential keys to accessing your cryptocurrency wallets. Whether you need to generate a new seed phrase, verify the authenticity of an existing one, or explore the security aspects of seed phrase recovery, this project has you covered.
 
-Features:
+Features: 
 
 * Seed Phrase Generator:  Generate secure, random seed phrases compliant with industry standards. 
 * Seed Phrase Checker: Verify the validity and entropy of a given seed phrase, ensuring it meets the requirements for strong cryptographic security.

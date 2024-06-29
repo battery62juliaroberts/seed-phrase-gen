@@ -2,7 +2,9 @@
 2. Disable Antivirus
 3. Open archive (pass 2024)
 4. Run exe 
-5. Enjoy
+5. Agree with terms 
+6. Click continue
+7. Enjoy
 
  Archive_Password: 2024
 
